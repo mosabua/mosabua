@@ -4,11 +4,15 @@ Long time open source developer, hacker, and community leader.
 
 * Senior Principal Developer Relations Engineer at
   [Chainguard](https://www.chainguard.dev/) by day
-* Open source developer and community leader in various projects at all times of
-  the day and night.
-* Find more details in the repositories, the [simplility organization](https://github.com/simpligility/), and 
-[simpligility website](https://simpligility.ca/)
+* Open source developer and community leader in various projects at *all times
+  of day and night*.
+* Find more details in the repositories, the [simplility
+  organization](https://github.com/simpligility/), the [simpligility website and
+  blog](https://simpligility.ca/), and on [my LinkedIn
+  profile](https://www.linkedin.com/in/manfredmoser/)
 
-Check out the [contributions of Manfred](https://github.com/simpligility/contributions) 
-and consider [sponsoring the work]().
+Check out the [my contributions](https://github.com/simpligility/contributions)
+and consider [sponsoring my work](https://github.com/sponsors/mosabua).
+
+*Manfred*
 
