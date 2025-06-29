@@ -1,16 +1,14 @@
-## Hi there 👋
+## Manfred Moser - mosabua
 
-<!--
-**mosabua/mosabua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Long time open source developer, hacker, and community leader. 
 
-Here are some ideas to get you started:
+* Senior Principal Developer Relations Engineer at
+  [Chainguard](https://www.chainguard.dev/) by day
+* Open source developer and community leader in various projects at all times of
+  the day and night.
+* Find more details in the repositories, the [simplility organization](https://github.com/simpligility/), and 
+[simpligility website](https://simpligility.ca/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out the [contributions of Manfred](https://github.com/simpligility/contributions) 
+and consider [sponsoring the work]().
+
