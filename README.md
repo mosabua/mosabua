@@ -1,4 +1,4 @@
-## Manfred Moser - mosabua
+# Manfred Moser - mosabua
 
 Long time open source developer, hacker, and community leader. 
 
@@ -12,7 +12,8 @@ Long time open source developer, hacker, and community leader.
   profile](https://www.linkedin.com/in/manfredmoser/)
 
 Check out the [my contributions](https://github.com/simpligility/contributions)
-and consider [sponsoring my work](https://github.com/sponsors/mosabua).
+and consider [sponsoring my work :heart:](https://github.com/sponsors/mosabua).
 
 *Manfred*
 
+## [:heart: Sponsor and support Manfred](https://github.com/sponsors/mosabua)
