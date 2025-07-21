@@ -6,7 +6,7 @@ Long time open source developer, hacker, and community leader.
   [Chainguard](https://www.chainguard.dev/) by day
 * Open source developer and community leader in various projects at *all times
   of day and night*.
-* Find more details in the repositories, the [simplility
+* Find more details in the [mosabua repositories](https://github.com/mosabua?tab=repositories), the [simplility
   organization](https://github.com/simpligility/), the [simpligility website and
   blog](https://simpligility.ca/), and on [my LinkedIn
   profile](https://www.linkedin.com/in/manfredmoser/)
